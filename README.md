@@ -1,7 +1,7 @@
 # MYLOOKS -Votre garde-robe virtuelle
 
 Le projet MYLOOKS est une application mobile réalisée pour le cours de Développement d’Application Mobile à l’HEPL. 
-L'application vous permet de cataloguer vos vêtements, de créer des tenues, de trouver des inspirations, et même de générer des combinaisons personnalisées en fonction de votre style et de vos préférences. 
+L'application **MyLooks** répond au besoin des utilisateurs de gérer et organiser facilement leur garde-robe, créer des tenues, et s'inspirer de nouveaux looks.
 
 ## Table de matières
 - **Architecture du projet**
