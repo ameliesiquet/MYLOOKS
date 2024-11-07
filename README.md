@@ -56,7 +56,7 @@ Le point d'entrée principal de l'application. C'est ici que l'initialisation de
 
 ## 🙋🏼‍♀️ Public cible
 L'application MyLooks est conçue pour une large gamme d'utilisateurs, avec un accent particulier sur les jeunes adultes, en particulier les femmes, qui s'intéressent à la mode et à l'organisation de leur garde-robe. Cependant, elle est adaptée à tous, quel que soit l'âge, car chacun peut en tirer parti en fonction de ses besoins. 
--**Besoins** : L'application **MyLooks** répond au besoin des utilisateurs de gérer et organiser facilement leur garde-robe, créer des tenues, s'inspirer de nouveaux looks et optimiser l'utilisation de leurs vêtements tout en offrant une interface simple, intuitive et esthétique.
+- **Besoins** : L'application **MyLooks** répond au besoin des utilisateurs de gérer et organiser facilement leur garde-robe, créer des tenues, s'inspirer de nouveaux looks et optimiser l'utilisation de leurs vêtements tout en offrant une interface simple, intuitive et esthétique.
 
 ## 📲 Fonctionnalités
 - **Gestion de la garde-robe** : L'application permet d'organiser et de catégoriser vos vêtements par type, saison, et occasion, afin d'optimiser votre garde-robe et de faciliter la création de tenues.  
