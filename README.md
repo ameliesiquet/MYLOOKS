@@ -53,6 +53,10 @@ Le point d'entrée principal de l'application. C'est ici que l'initialisation de
 
 
 ## Étude de l'existant
+- [https://whering.co.uk]
+- [https://getwardrobe.com]
+- [https://www.openwardrobe.co]
+- [https://wonder-wardrobe.com/blog/visual-outfit-guide]
 
 ## 🙋🏼‍♀️ Public cible
 L'application MyLooks est conçue pour une large gamme d'utilisateurs, avec un accent particulier sur les jeunes adultes, en particulier les femmes, qui s'intéressent à la mode et à l'organisation de leur garde-robe. Cependant, elle est adaptée à tous, quel que soit l'âge, car chacun peut en tirer parti en fonction de ses besoins. 
